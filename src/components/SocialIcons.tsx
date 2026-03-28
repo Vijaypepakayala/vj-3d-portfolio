@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="#contact"
+        href="/Vijay_Kumar_Pepakayala.pdf"
         target="_blank"
         rel="noreferrer"
       >
